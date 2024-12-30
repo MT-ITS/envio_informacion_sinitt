@@ -35,3 +35,5 @@ El numero que esta escrito en la url anterior puede tomar los siguiente valores 
 | 4      | Measured Site Table Publication |
 | 5      | Vms Publication                 |
 | 6      | Vms Table Publication           |
+
+La url dada (http://127.0.0.1:8000/start/3) sirve por tanto para enviar un mensaje de la publicación Situation Publication.
