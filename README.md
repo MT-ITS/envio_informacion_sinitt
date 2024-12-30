@@ -11,7 +11,7 @@ La siguiente gráfica muestra las interrelaciones definidas para el uso del comp
 La entidad que desee utilizar este componente para comunicación con el SINITT deberá:
 
 1. Descargar el código  
-2. ubicarse en la carpeta 
+2. ubicarse en la carpeta raiz (donde esta el archivo requirements.txt) 
 3. Instalar las librerias mediante el comando:
 
 pip install -r requirements 
