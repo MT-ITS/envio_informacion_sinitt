@@ -25,7 +25,7 @@ Esto abrira un servidor web corriendo en el computador local. Para acceder a est
 
 http://127.0.0.1:8000/start/3
 
-El numero que esta escribo en la url anterior puede tomar los siguiente valores de acuerdo al tipo de publicación que se desea entregar. La siguiente es la lista de valores validos
+El numero que esta escrito en la url anterior puede tomar los siguiente valores de acuerdo al tipo de publicación que se desea entregar. La siguiente es la lista de valores validos
 
 | Numero | tipo de publicación             |
 | ------ | ------------------------------- |
